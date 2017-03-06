@@ -1,0 +1,11 @@
+TP
+*~
+*.o
+*#
+*.back
+*.bck
+a.out
+score.txt
+zappy_ai
+zappy_server
+zappy_graphic

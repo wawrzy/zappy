@@ -1,0 +1,24 @@
+OK Arrivé sur le server : "[NOM_TEAM] Connected [NUMERO_JOUEUR]"
+OK Si NUMERO_JOUEUR == 0 -> +1 à TOUT les NUMERO_JOUEUR
+
+
+OK Demande d'association : "[NOM_TEAM] [] [NUMERO_JOUEUR] group [LVL]"
+OK Accept association : "[NOM_TEAM] [NUMERO_JOUEUR_ASSOC] [NUMERO_JOUEUR] joan [LVL]"
+OK Confirmer acceptation : "[NOM_TEAM] [NUMERO_JOUEUR_ASSOC] [NUMERO_JOUEUR] ok [LVL]"
+
+
+OK (réception)Pierre trouvé : "[NOM_TEAM] [NUMERO_JOUEUR_ASSOC] [NUMERO_JOUEUR] trouver [PIERRE]"
+OK Incantation : "[NOM_TEAM] [NUMERO_JOUEUR_ASSOC] [NUMERO_JOUEUR] Incantation"
+
+
+
+
+Besoin De nourriture : "besoin"
+Assez De nourriture : "donner"
+donner nourriture : "nourriture"
+OK Poser objet sur la case : "poser" (Doyen)
+OK Tout poser sur la case : "toutposer" (Non doyen)
+OK Lancer l'incantation SPARTIATEEEEEEEEEE "spartiate" (doyen)
+
+
+(int fork pour savoir si on fork)
