@@ -1,6 +1,12 @@
 # zappy
 
-## How to run zappy
+## Project
+
+The zappy is the biggest project of epitech 2nd year.
+
+[zappy subject](docs/zappy-en.pdf)
+
+## Run zappy
 ```Shell
 # On ubuntu / mint / debian
 sudo ./script/install_glew_ubuntu.sh
