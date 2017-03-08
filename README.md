@@ -2,7 +2,8 @@
 
 ## Project
 
-The zappy is the biggest project of epitech 2nd year.
+Zappy is a virtual game that we have to do in second year of Epitech.
+This is a small strategic game where your player, controlled by an AI needs to feed himself and gather ressources to "elevate".
 
 [zappy subject](docs/zappy-en.pdf)
 
